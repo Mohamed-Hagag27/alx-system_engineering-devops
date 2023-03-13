@@ -1,2 +1,2 @@
 #!/bin/bash
-emacs "Hello, World"; emacs " "
+printf "Hello, World/n"
