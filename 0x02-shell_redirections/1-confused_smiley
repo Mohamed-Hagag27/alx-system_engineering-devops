@@ -1,2 +1,2 @@
 #!/bin/bash
-emacs "\"(Ôo)'"
+echo "\"(Ôo)'"
